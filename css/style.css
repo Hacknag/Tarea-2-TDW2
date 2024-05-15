@@ -11,3 +11,27 @@
     font-style: none;
 
 }
+
+.card-attribute5{
+    background-color: #f7f7f7;
+    width: 100%;
+    height: 15rem;
+    border-radius: 5%;
+}
+
+button{
+    width: 9rem;
+    
+}
+
+.back-btn-b{
+    background-color: #3a93d7;
+}
+.back-btn{
+    
+    color: #fff;
+    text-decoration: none;
+    font-style: none;
+    font-weight: bold;
+
+}
